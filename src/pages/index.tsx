@@ -3,13 +3,13 @@ import {
   CheckCircle,
   Clock,
 } from 'lucide-react';
-import ContactForm from './components/ContactForm';
-import Footer from './components/Footer';
-import Navbar from './components/Navbar';
-import HeroSection from './components/HeroSection';
-import SeccionServicios from './components/SeccionServicios';
-import FaqSection from './components/FaqSection';
-import ContactSection from './components/ContactSeccion';
+import ContactForm from '../components/ContactForm';
+import Footer from '../components/Footer';
+import Navbar from '../components/Navbar';
+import HeroSection from '../components/HeroSection';
+import SeccionServicios from '../components/SeccionServicios';
+import FaqSection from '../components/FaqSection';
+import ContactSection from '../components/ContactSeccion';
 
 
 export default function Home() {
