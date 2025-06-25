@@ -8,13 +8,13 @@ export default function CallToAction() {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="mailto:tu@email.com"
+            href="mailto:millandev2111@gmail.com"
             className="bg-gradient-to-r from-blue-600 to-cyan-600 text-white px-8 py-4 rounded-full font-semibold hover:from-blue-700 hover:to-cyan-700 transition-all duration-300 transform hover:scale-105"
           >
             Comenzar Mi Proyecto Ahora
           </a>
           <a
-            href="https://wa.me/1234567890"
+            href="https://wa.me/+573023391357"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white/10 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/20 transition-all duration-300"

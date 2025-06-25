@@ -167,9 +167,9 @@ export default function Home() {
               <Clock className="w-12 h-12 text-blue-400 mx-auto mb-4" />
               <h3 className="text-2xl font-bold text-white mb-4">Tiempo de Entrega</h3>
               <p className="text-gray-300 text-lg">
-                <span className="text-blue-400 font-semibold">Plan Esencial:</span> 7-10 días • 
-                <span className="text-blue-400 font-semibold"> Plan Profesional:</span> 14-21 días • 
-                <span className="text-blue-400 font-semibold"> Plan Premium:</span> 21-30 días
+                <span className="text-blue-400 font-semibold">Portafolios:</span> 2-4 días • 
+                <span className="text-blue-400 font-semibold"> Landing Page:</span> 4-6 días • 
+                <span className="text-blue-400 font-semibold"> E-commerce:</span> 6-12 días
               </p>
             </div>
           </div>
