@@ -38,7 +38,7 @@ export const plans: Plan[] = [
     features: [
       'Todo lo del plan Esencial',
       '4 Secciones personalizadas',
-      'Animaciones personalizadas',
+      'Animaciones y transiciones',
       'Integración con redes sociales',
       'SEO básico incluido',
     ],
